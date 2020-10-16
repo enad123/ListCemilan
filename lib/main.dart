@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:makanan_app/DetailPage.dart';
 
+
+//buat hacktober fest
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
